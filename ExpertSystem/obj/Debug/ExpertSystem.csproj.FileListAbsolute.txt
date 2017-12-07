@@ -1,0 +1,9 @@
+D:\onu\ES\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.exe.config
+D:\onu\ES\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.exe
+D:\onu\ES\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.pdb
+D:\onu\ES\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csprojResolveAssemblyReference.cache
+D:\onu\ES\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.Form1.resources
+D:\onu\ES\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.Properties.Resources.resources
+D:\onu\ES\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.GenerateResource.Cache
+D:\onu\ES\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.exe
+D:\onu\ES\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.pdb

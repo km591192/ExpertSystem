@@ -1,0 +1,7 @@
+fact(a)
+fact(b)
+fact(c)
+fact(d)
+rule(1,c,a,b)
+rule(2,e,c,d)
+rule(3,f,e)
